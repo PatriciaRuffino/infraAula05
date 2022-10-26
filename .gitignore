@@ -1,5 +1,5 @@
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
-terraforme-aws.pub
+terraform-aws.pub
 terraform.tfstate.backup
